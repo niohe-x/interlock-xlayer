@@ -6,7 +6,7 @@ Two circuits on one processor.
 The simple gate opens when both keys are on.
 The breaker remembers a trip and stays closed until reset.
 
-- Processor: `0x163C980ee0E9eccc142fED1dfdbb902e89da9814`
+- Processor: `0x163C980ee0E9eccc142fED1dfdbb962e89da9814`
 - Circuit 1 (instant AND): `1.2.238`
 - Circuit 2 (dual-key breaker): `2.2.238`
 - Wallet: `0xe13a4ca61a0f3f72709668be265856180f1469c4`
